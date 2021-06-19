@@ -98,7 +98,7 @@ def Introduction():
     "Where you just have to command me , and I will do it for you , ")
 
 def Creator():
-    speak("MAK is an extra-ordinary person ,"
+    speak("Fahad is an good person ,"
     "He has a passion for Robotics, Artificial Intelligence and Machine Learning ,"
     "He is very co-operative ,"
     "If you are facing any problem regarding the 'Jarvis', He will be glad to help you ")
